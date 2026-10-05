@@ -449,7 +449,7 @@ _GAME_CHR:
     .incbin "GRAPHICS/Level Tiles/SpikesB.chr" ; (2)
     .incbin "GRAPHICS/Level Tiles/SpikesC.chr" ; (4)
     .incbin "GRAPHICS/Level Tiles/BlocksA.chr" ; (6)
-    .incbin "GRAPHICS/Level Tiles/BlocksB.chr" ; (8)
+    .incbin "GRAPHICS/Level Tiles/BlocksG.chr" ; (8)
     .incbin "GRAPHICS/Level Tiles/BlocksC.chr" ; (10)
     .incbin "GRAPHICS/Level Tiles/BlocksD.chr" ; (12)
     .incbin "GRAPHICS/Level Tiles/SawbladesA.chr" ; (14)
